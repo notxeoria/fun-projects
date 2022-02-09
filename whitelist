@@ -1,5 +1,6 @@
 wl = {
-1411142133
+1411142133,
+1337410318
 };
 if not table.find(wl,game.Players.LocalPlayer.UserId) then
 game.Players.LocalPlayer:Kick([[You are NOT whitelisted!
