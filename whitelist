@@ -9,4 +9,9 @@ xeoria#2913 to report this as an error.
 
 If you stole this, however,
 fuck you. 😹]])
+return function()while true do end repeat until nil end
+else
+warn([[
+Loading True Chara by xeoria#2913...
+]])
 end
