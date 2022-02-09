@@ -1,2 +1,12 @@
-# fun-projects
-skidded stuff for soulshatters and other games xd
+wl = {
+1411142133
+};
+if not table.find(wl,game.Players.LocalPlayer.UserId) then
+game.Players.LocalPlayer:Kick([[You are NOT whitelisted!
+
+If you were intended to be whitelisted, contact
+xeoria#2913 to report this as an error.
+
+If you stole this, however,
+fuck you. 😹]])
+end
