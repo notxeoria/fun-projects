@@ -1,7 +1,6 @@
 local self = {}
 local Whitelist = {
-  2977897814,
-  2054805236
+  2977897814
 }
 
 function self.GetWhitelist()
